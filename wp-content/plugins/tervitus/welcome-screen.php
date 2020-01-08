@@ -8,8 +8,8 @@ Author URI: http://juurmahannes.ikt.khk.ee/wordpress/wordpress/
 */
 
 function alert($message) {
-    // Alert box display
-    echo "<script>alert('$message');</script>";
+        echo "<script>alert('$message');</script>";
+    
 }
 
 alert("Tere tulemast minu veebilehele!");
